@@ -1,1 +1,16 @@
+Note: Due to large size of file only screenshot of the dashboard is uploaded
+
+This is my first project and it is inspired from a Youtube tutorial. I have made this project
+based on my own understanding and skills.
+
+Project Info:
+1. The Road Accident Dashboard showcases various kpis based on types of casualties and vehicle type.
+2. The project also provides insights on: 
+   a)Number of monthly casualty trends in two years.
+   b)Casualties by road type.
+   c)Casualties by area(Urban & Rural)
+   d)Casualties due to different light types.
+3. Timeline panel enables user to view different trends overtime.
+4. A slicer provides user to view different data on the basis of area
+
 
